@@ -18,7 +18,6 @@
 ![node](https://user-images.githubusercontent.com/65226860/123557003-04cfb500-d7ac-11eb-8da7-fecda76f0baf.png)
 
 
-![image](https://user-images.githubusercontent.com/65226860/123557145-e61dee00-d7ac-11eb-8bfa-1e9e5cdab705.png)
 
 
 
